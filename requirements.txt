@@ -1,3 +1,4 @@
+Following modules are required to be installed before running the application:
 flask
 cohere
 requests
